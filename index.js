@@ -20,5 +20,5 @@ function dec(a) {
 //function parseInt
 //what is makeInt(n) mean?!?
 function makeInt(number) {
-  return parseInt(number)
+  return parseInt(number, 10)
 }
