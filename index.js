@@ -22,3 +22,6 @@ function dec(a) {
 function makeInt(number) {
   return parseInt(number, 10)
 }
+function preserveDecimal(nextNumber){
+  
+}
