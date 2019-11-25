@@ -17,5 +17,5 @@ function inc(a) {
 function dec(a) {
   return a - 1
 }
-function parseInt
+//function parseInt
 //what is makeInt(n) mean?!?
